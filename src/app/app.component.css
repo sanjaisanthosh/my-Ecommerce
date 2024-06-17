@@ -1,0 +1,9 @@
+.navbar ul {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        
+}
+a{
+    list-style-type: none;
+}

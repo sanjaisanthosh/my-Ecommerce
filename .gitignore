@@ -45,3 +45,19 @@ node_modules/
 .angular/
 .vscode/
 public/
+
+# Node Modules
+/node_modules
+
+# Compiled output
+/dist
+/build
+/coverage
+
+# Logs
+/logs
+*.log
+
+# Environment variables
+.env
+.env.local
